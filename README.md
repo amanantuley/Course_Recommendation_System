@@ -1,16 +1,56 @@
-# Course-Recommendation-System
-The provided code is a course recommendation system implemented using Streamlit, a Python framework for building interactive web applications. The system allows users to select courses they have audited or completed and provides personalized recommendations based on different recommendation models.
+# 🎯 Course Recommendation System
 
-The code consists of several functions and components:
+## 📌 Overview
+The **Course Recommendation System** is a machine learning-based project that suggests relevant courses to users based on Coursera course data. It processes an Excel dataset and applies recommendation algorithms to provide personalized course recommendations.
 
-1. Data Loading: The system loads various datasets such as ratings, course similarities, user profiles, course genre information, and bag-of-words representation of courses.
+## ✨ Features
+✅ Data preprocessing and cleaning  
+✅ Content-based and collaborative filtering recommendations  
+✅ Machine learning model for personalized suggestions  
+✅ User-friendly output and analysis  
 
-2. App Initialization: The init__recommender_app() function initializes the recommender app by loading the datasets and allowing users to select courses they have audited or completed using an interactive table.
+## 🛠 Technologies Used
+- 🐍 **Python** (pandas, numpy, scikit-learn, etc.)
+- 🤖 **Machine Learning Algorithms** (e.g., TF-IDF, Cosine Similarity, KNN)
+- 📜 **Jupyter Notebook** or Python scripts
+- 📊 **Excel** (Dataset storage)
 
-3. Training: The system supports training different recommendation models. Currently, it includes the "Course Similarity," "User Profile," and "Clustering" models. The train() function is responsible for training the selected model with the specified hyperparameters.
+## 🚀 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Course_Recommendation_System.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Course_Recommendation_System
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-4. Prediction: Once the model is trained, the system generates course recommendations based on the selected model and user inputs. The predict() function takes the model name, user IDs, and additional parameters as input and returns the recommended courses.
+## 🎯 Usage
+1. 📂 Prepare the dataset (Ensure the Excel file is correctly formatted).
+2. ▶️ Run the Python script:
+   ```bash
+   python recommend.py
+   ```
+3. 🎯 Enter user preferences or course details when prompted.
+4. 📋 View the recommended courses.
 
-5. User Interface: The system's user interface is built using Streamlit. It includes a sidebar that allows users to select the recommendation model, tune hyperparameters, train the model, and generate course recommendations. The selected courses, model parameters, and recommendations are displayed in the main content area.
+## 📂 Dataset
+- The dataset consists of Coursera courses with attributes such as course name, category, ratings, and difficulty level.
+- Ensure the dataset (`courses.xlsx`) is placed in the project directory.
 
-The code provides a basic implementation of the course recommendation system and can be extended with additional models and functionalities. It demonstrates the integration of Streamlit for building interactive web applications and the usage of different recommendation techniques such as course similarity, user profiling, and clustering.
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork the repository, submit issues, or make pull requests. 🚀
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+For any inquiries or feedback, reach out to:
+📧 **Email**: amanantuley@gmail.com  
+🐦 **Twitter**: [@amanantuley](https://twitter.com/amanantuley)  
+🔗 **LinkedIn**: [amanantuley](https://linkedin.com/in/amanantuley)
+

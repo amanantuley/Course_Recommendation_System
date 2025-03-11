@@ -1,0 +1,309 @@
+﻿COURSE_ID,TITLE,Database,Python,CloudComputing,DataAnalysis,Containers,MachineLearning,ComputerVision,DataScience,BigData,Chatbot,R,BackendDev,FrontendDev,Blockchain
+ML0201EN,robots are coming  build iot apps with watson  swift  and node red,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+ML0122EN,accelerating deep learning with gpu,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+GPXX0ZG0EN,consuming restful services using the reactive jax rs client,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+RP0105EN,analyzing big data in r using apache spark,1,0,0,1,0,0,0,0,1,0,1,0,0,0
+GPXX0Z2PEN,containerizing  packaging  and running a spring boot application,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+CNSC02EN,cloud native security conference  data security,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+DX0106EN,data science bootcamp with r for university proffesors,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+GPXX0FTCEN,learn how to use docker containers for iterative development,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+RAVSCTEST1,scorm test course,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX06RFEN,create your first mongodb database,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX0SDXEN,testing microservices with the arquillian managed container,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+CC0271EN,cloud pak for integration essentials,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+WA0103EN,watson analytics for social media,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+DX0108EN,data science bootcamp with python for university professors  advance,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+GPXX0PICEN,create a cryptocurrency trading algorithm in python,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+DAI101EN,data   ai essentials,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0W7KEN,securing java microservices with eclipse microprofile json web token  microprofile jwt ,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0QR3EN,enabling distributed tracing in microservices with zipkin,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+BD0145EN,sql access for hadoop,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+HCC105EN,ybrid cloud conference  ai pipelines lab,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+DE0205EN,dataops methodology,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+DS0132EN,data   ai  jumpstart your journey,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+OS0101EN,introduction to open source,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+DS0201EN,end to end data science on cloudpak for data,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+BENTEST4,ai for everyone  master the basics,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CC0210EN,serverless computing using cloud functions   developer i,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+PA0103EN,predicting customer satisfaction,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+HCC104EN,hybrid cloud conference serverless lab,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+GPXX0A1YEN,validating constraints for javabeans in java microservices,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+TMP0105EN,getting started with the data  apache spark makers build,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+PA0107EN,predicting financial performance of a company,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+DB0113EN,db2 fundamentals i,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA0109EN,using clustering methods for investment portfolio analysis,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+PHPM002EN,php web application on a lamp stack,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX03HFEN,fundamentals of javascript through rock paper scissors,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+RP0103,using r with databases,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+RP0103EN,using r with databases,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+BD0212EN,spark fundamentals ii,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+GPXX0IBEN,data science in insurance  basic statistical analysis ,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+SECM03EN,apply end to end security to a cloud application,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+SC0103EN,spark overview for scala analytics,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+GPXX0YXHEN,testing a microprofile or jakarta ee application using microshed testing with an open liberty docker container,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+RP0151EN,r 101,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+TA0105,text analytics 101,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SW0201EN,how to build watson ai and swift apis and make money,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+TMP0106,tmp data science bootcamp,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+GPXX0BUBEN,insurance risk assessment with montecarlo method using apache spark ,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+ST0201EN,statistics 201,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ST0301EN,statistics 301,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SW0101EN,build swift mobile apps with watson ai services,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+TMP0101EN,text analysis,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+DW0101EN,introduction to machine learning with sound,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BD0143EN,using hbase for real time access to your big data,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+WA0101EN,watson analytics 101,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+GPXX04HEEN,insurance business modelling and basic actuarial calculations,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BD0141EN,accessing hadoop data using hive,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CO0401EN,beyond the basics  istio and ibm cloud kubernetes service,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+ML0122ENv1,accelerating deep learning with gpu,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+BD0151EN,text analytics 101,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+TA0106EN,text analytics at scale,0,0,0,0,0,1,0,1,1,0,0,0,0,0
+TMP107,data science bootcamp with python,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+ML0111EN,machine learning with apache systemml,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX048OEN,action classification task based on internet firewall logs,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CO0201EN,container   kubernetes essentials with ibm cloud,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+GPXX01DCEN,data science in health care  advanced prognostication using neural networks,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+GPXX04XJEN,advanced machine   deep learning for spam classification task,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0JZ4EN,visual data analysis in banking,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GPXX0ZYVEN,secure analysis of credit card dataset,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GPXX0ZMZEN,data science in health care  advanced machine learning classification,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+GPXX0742EN,network traffic anomaly detection  intrusion detection task ,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0KV4EN,getting started with node js,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX01RYEN,getting started with mysql command line,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CC0120EN,an introduction to ibm cloud satellite,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+QC0101EN,introduction to quantum computing,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GPXX0YMEEN,launch an ai hotdog detector as a serverless python app,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+GPXX0Q8AEN,exploratory data analysis  eda  with pandas in banking,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+TA0105EN,text analytics 101,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0XFQEN,create tables and load data in mysql using phpmyadmin,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX07REN,relational model concepts,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+PA0101EN,predictive modeling fundamentals i,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+BC0202EN,build an iot blockchain network for a supply chain,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+BC0101EN,blockchain essentials,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+GPXX0725EN,getting started with postgresql command line,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+BC0201EN,ibm blockchain foundation developer,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+GPXX0MIIEN,keys and constraints in mysql,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+BD0223EN,exploring spark s graphx,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+GPXX0435EN,data science in health care  basic statistical analysis ,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+GPXX06ZLEN,create tables and load data in postgresql using pgadmin,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX0QS6EN,monitoring the metrics of java microservices using eclipse microprofile metrics,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX07YGEN,configuring microservices running in kubernetes,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+AI0111EN,game playing ai with swift for tensorflow  s4tf ,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0QJFEN,enabling cross origin resource sharing  cors  in a restful java microservice,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0LLEEN,getting started with db2 on cloud,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+BD0121EN,apache pig 101,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+BD0135EN,developing distributed applications using zookeeper,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+BD0133EN,controlling hadoop jobs using oozie,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+BD0131EN,moving data into hadoop,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+BD0115EN,mapreduce and yarn,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+GPXX04V3EN,deploy a web server using python and ibm cloud engine,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+GPXX05P1EN,acknowledging messages using microprofile reactive messaging,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0D14EN,build a personal movie recommender with django,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+GPXX0G3KEN,managing and injecting dependencies into java microservices using contexts and dependency injection  cdi ,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+BD0211EN,spark fundamentals i,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+GPXX0HZ2EN,deploying microservices to kubernetes,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+GPXX04TNEN,getting started with open liberty,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0IHMEN,consuming restful java microservices asynchronously using eclipse microprofile rest client,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ST0101EN,statistics 101,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BD0153EN,analyzing big data with a spreadsheet ui,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DP0101EN,openrefine 101,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+BD0137EN,solr 101,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+ML0120EN,deep learning with tensorflow,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0E3QEN,building fault tolerant microservices with the  fallback annotation,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0XV3EN,consuming restful java microservices with template interfaces using eclipse microprofile rest client,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CB0201EN,build chatbots with watson assistant,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+CB0105ENv1,node red  basics to bots,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0NHZEN,normalization   keys   constraints in relational database,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+CL0101EN,ibm cloud essentials,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CO0301EN,getting started with microservices with istio and ibm cloud kubernetes service,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+GPXX0XENEN,playing tictactoe with reinforcement learning and openai gym,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0HAAEN,deploying a microservice to openshift by using a kubernetes operator,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+DA0201EN,data analysis demos,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DJ0101EN,data journalism  first steps  skills and tools,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+CP0101EN,mathematical optimization for business problems,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DB0111EN,db2 academic training,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+DB0115EN,db2 fundamentals ii,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+COM001EN,scalable web applications on kubernetes,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+DA0151EN,data analysis using r 101,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+DB0151EN,nosql and dbaas 101,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CO0302EN,kubernetes operators advanced,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+GPXX0T0FEN,project  deploy a serverless app for image processing,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+DS0107,data science career talks,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DS0110EN,data science with open data,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DX0107EN,data science bootcamp with python for university professors,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DS0321EN,bitcoin 101,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DS0105EN,data science hands on with open source tools,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DS0103EN,data science methodology,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+GPXX0I4FEN,creating asynchronous java microservices using microprofile reactive messaging,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX06KEEN,build a smart search form with algolia,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0YBFEN,documenting restful apis using microprofile openapi,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+LB0109ENv1,reactive architecture  distributed messaging patterns,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0KHHEN,data science in agriculture  land use classification,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+LB0111EN,reactive architecture  cqrs   event sourcing,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ML0115EN,deep learning 101,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LB0105ENv1,reactive architecture  reactive microservices,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+LB0103ENv1,reactive architecture  domain driven design,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+IT0101EN,building robots with tjbot,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CC0250EN,building cloud native and multicloud applications,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+BD0101EN,big data 101,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+EE0101EN,modernizing java ee applications,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX04P5EN,data science in agriculture  prognostication using by neural network,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+CO0101EN,docker essentials  a developer introduction,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ML0122ENv3,accelerating deep learning with gpus,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LB0107ENv1,reactive architecture  building scalable systems,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CB0101EN,build your own chatbots,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+GPXX0PG8EN,data science in agriculture  basic statistical analysis and geo visualisation,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+ML0101EN,machine learning with python,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+CB0103EN,build your own chatbot,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ML0109EN,machine learning   dimensionality reduction,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ML0101ENv3,machine learning with python,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+GPXX0M7ZEN,consuming a restful java web service using json b and json p,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CC0121EN,an introduction to ibm cloud for financial services,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+DA0101EN,data analysis with python,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+GPXX07UGEN,testing reactive java microservices using microshed testing framework,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0QU9EN,checking the health of java microservices by using kubernetes readiness and liveness probes,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+SC0101EN,scala 101,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0QTEEN,checking the health of java microservices by using eclipse microprofile health check,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0WTIEN,train a hotdog image recognition model with python,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+GPXX08WYEN,externalizing configuration for java microservices using eclipse microprofile config,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0UMSEN,integrating restful services with a reactive system,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+GPXX0M6UEN,using the cql shell to execute keyspace operations in cassandra,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+GPXX097UEN,performing table and crud operations with cassandra,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+SN0111EN,how to create and publish guided projects and hands on labs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX0JGFEN,building a simple restful java microservice using jax rs and json b,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CO0193EN,hybrid cloud conference   backend services for containers,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+GPXX0HC7EN,transform photos to sketches and paintings with opencv,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+GPXX04MXEN,quick introduction to a b testing,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DS0101EN,introduction to data science,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+LB0101ENv1,reactive architecture  introduction to reactive systems,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+DS0301EN,data privacy fundamentals,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX0RL8EN,consuming a restful java web service with angularjs,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+GPXX05LMEN,implement consumer driven contract testing for java microservices using the pact framework,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+BD0111EN,hadoop 101,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+CC0101EN,introduction to cloud,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GPXX0UN5EN,classification of yelp reviews using sentiment analysis,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BD0221EN,spark mllib,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+CC0103EN,ibm cloud essentials   v3,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+GPXX0TY1EN,performing database operations in the cloudant dashboard,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+GPXX0T3CEN,working with databases in ibm cloudant,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+PY0101EN,python for data science,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+CC0201EN,introduction to containers  kubernetes  and openshift v2,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BD0123EN,simplifying data pipelines with apache kafka,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+DB0101EN,sql and relational databases 101,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX05RDEN,medical appointment data analysis,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DV0151EN,data visualization with r,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+GPXX0BSAEN,implementing a graphql microservice using microprofile api to query and update data from multiple services,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0G81EN,consuming a restful java web service with reactjs,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+GPXX0FFCEN,building and testing a java web application with maven and open liberty,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0MP0EN,building a hypermedia driven restful java microservice using hypermedia as the engine of application state  hateoas ,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+DV0101EN,data visualization with python,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+ML0103EN,digital analytics   regression,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ML0151EN,machine learning with r,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+GPXX01AVEN,containerizing and running java microservices in docker containers,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ML0120ENv2,deep learning with tensorflow,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+RP0101EN,r for data science,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+GPXX0G31EN,accessing and persisting data in microservices using java persistence api  jpa ,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0KY1EN,data science in health care  basic prognostication and geo visualization,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+GPXX0JLHEN,enabling distributed tracing in java microservices using eclipse microprofile opentracing and the jaeger tracing system ,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+CC0150EN,building cloud native and multicloud applications,0,0,1,0,0,0,0,0,0,0,0,1,1,0
+GPXX0QQ3EN,deploy an ai powered discord bot with a voice,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+GPXX0RQLEN,views in postgresql,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPXX0WRDEN,streaming updates from a microprofile reactive messaging microservice using server sent events  sse ,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+GPXX0ADEN,consuming a restful java web service with angular,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+ML0120ENv3,deep learning with tensorflow,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SC0105EN,data science with scala,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+excourse01,relational database systems,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+excourse02,business intelligence and data warehousing,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+excourse03,nosql systems,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse04,sql for data science,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+excourse05,"
+distributed computing with spark sql",1,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse06,sql for data science capstone project,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+excourse07,database management essentials,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+excourse08,using databases with python,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+excourse09,process data from dirty to clean,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+excourse10,database architecture  scale  and nosql with elasticsearch,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse11,the nature of data and relational database design,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+excourse12,python scripting  files  inheritance  and databases,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+excourse13,relational database support for data warehouses,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+excourse14,introduction to structured query language  sql ,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+excourse15,crash course on python,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+excourse16,programming for everybody  getting started with python ,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+excourse17,python basics,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+excourse18,python programming  a concise introduction,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+excourse19,introduction to python programming,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+excourse20,python and statistics for financial analysis,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+excourse21,applied machine learning in python,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+excourse22,introduction to data science in python,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+excourse23,data analysis using python,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+excourse24,introduction to cloud computing,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+excourse25,cloud computing basics  cloud 101 ,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+excourse26,cloud computing foundations,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+excourse27,cloud computing concepts  part 1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+excourse28,fundamentals of cloud computing,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+excourse29,cloud computing concepts  part 2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+excourse30,cloud computing applications  part 1  cloud systems and infrastructure,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+excourse31,cloud computing applications  part 2  big data and applications in the cloud,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+excourse32,introduction to data analytics,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+excourse33,excel basics for data analysis,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+excourse34,introduction to data analysis,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+excourse35,introduction to predictive modeling,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+excourse36,data analysis using python,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+excourse37,data analysis with r programming,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+excourse38,data analysis with python,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+excourse39,excel fundamentals for data analysis,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+excourse40,exploratory data analysis for machine learning,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+excourse41,introduction to data analysis using excel,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+excourse42,big data analysis  hive  spark sql  dataframes and graphframes,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse43,cloud virtualization  containers and apis,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+excourse44,alibaba cloud native solutions and container service,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+excourse45,docker  basics,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+excourse46,machine learning,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse47,machine learning for all,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse48,introduction to machine learning  language processing,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+excourse49,applied machine learning in python,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+excourse50,build  train  and deploy ml pipelines using bert,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse51,introduction to machine learning in production,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse52,machine learning data lifecycle in production,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse53,deploying machine learning models in production,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse54,exploratory data analysis for machine learning,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+excourse55,advanced computer vision with tensorflow,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+excourse56,deep learning applications for computer vision,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+excourse57,deep learning in computer vision,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+excourse58,computer vision basics,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+excourse59,fundamentals of digital image and video processing,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+excourse60,introduction to tensorflow for artificial intelligence  machine learning  and deep learning,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse61,convolutional neural networks in tensorflow,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+excourse62,introduction to data science in python,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+excourse63,a crash course in data science,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+excourse64,data science in real life,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+excourse65,data science fundamentals for data analysts,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+excourse66,executive data science capstone,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+excourse67,introduction to big data,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse68,big data modeling and management systems,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse69,machine learning with big data,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+excourse70,big data   capstone project,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse71,big data essentials  hdfs  mapreduce and spark rdd,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse72,foundations for big data analysis with sql,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+excourse73,analyzing big data with sql,1,0,0,1,0,0,0,0,1,0,0,0,0,0
+excourse74,fundamentals of big data,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse75,hadoop platform and application framework,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+excourse76,working with big data,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+excourse77,natural language processing with attention models,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse78,natural language processing with sequence models,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse79,natural language processing with probabilistic models,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+excourse80,r programming,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+excourse81,data analysis with r programming,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+excourse82,getting started with data visualization in r,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+excourse83,introduction to probability and data with r,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+excourse84,using r for regression and machine learning in investment ,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+excourse85,data visualization in r with ggplot2,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+excourse86,the r programming environment,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+excourse87,html  css  and javascript for web developers,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+excourse88,javascript basics,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+excourse89,javascript  jquery  and json,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+excourse90,programming foundations with javascript  html and css,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+excourse91,front end web development with react,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+excourse92,introduction to web development,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+excourse93,interactivity with javascript and jquery,0,0,0,0,0,0,0,0,0,0,0,1,1,0

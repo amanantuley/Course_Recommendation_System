@@ -50,6 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 For any inquiries or feedback, reach out to:
+
 📧 **Email**: amanantuley@gmail.com  
 🐦 **Twitter**: [@amanantuley](https://twitter.com/amanantuley)  
 🔗 **LinkedIn**: [amanantuley](https://linkedin.com/in/amanantuley)

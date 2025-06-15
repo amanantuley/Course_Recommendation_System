@@ -1,57 +1,96 @@
+
 # 🎯 Course Recommendation System
 
-## 📌 Overview
-The **Course Recommendation System** is a machine learning-based project that suggests relevant courses to users based on Coursera course data. It processes an Excel dataset and applies recommendation algorithms to provide personalized course recommendations.
+A machine learning-powered course recommender that suggests personalized course options to users based on their preferences and past data. It uses content-based filtering and similarity measures to find relevant matches.
+
+---
+
+## 📁 Project Structure
+
+```
+Course_Recommendation_System/
+├── backend.py
+├── recommender_app.py
+├── requirements.txt
+├── course_genre.csv
+├── course_processed.csv
+├── courses_bows.csv
+├── ratings.csv
+├── sim.csv
+├── user_profile.csv
+├── LICENSE
+└── README.md
+```
+
+---
 
 ## ✨ Features
-✅ Data preprocessing and cleaning  
-✅ Content-based and collaborative filtering recommendations  
-✅ Machine learning model for personalized suggestions  
-✅ User-friendly output and analysis  
+
+* ✅ Recommends courses based on user preferences
+* ✅ Uses cosine similarity and TF-IDF-based content filtering
+* ✅ Pythonic backend logic with `pandas`, `sklearn`, and more
+* ✅ Cleaned and structured datasets (`CSV`) for model input
+* ✅ Modularized design (`backend.py` for logic, `recommender_app.py` as app entry)
+
+---
 
 ## 🛠 Technologies Used
-- 🐍 **Python** (pandas, numpy, scikit-learn, etc.)
-- 🤖 **Machine Learning Algorithms** (e.g., TF-IDF, Cosine Similarity, KNN)
-- 📜 **Jupyter Notebook** or Python scripts
-- 📊 **Excel** (Dataset storage)
+
+* 🐍 **Python 3**
+* 📊 **pandas**, **numpy**
+* 🤖 **scikit-learn** (TF-IDF, cosine similarity)
+* 🗂️ **CSV** datasets (processed externally from original Excel)
+* 📦 **requirements.txt** for environment setup
+
+---
 
 ## 🚀 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Course_Recommendation_System.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Course_Recommendation_System
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-## 🎯 Usage
-1. 📂 Prepare the dataset (Ensure the Excel file is correctly formatted).
-2. ▶️ Run the Python script:
-   ```bash
-   python recommend.py
-   ```
-3. 🎯 Enter user preferences or course details when prompted.
-4. 📋 View the recommended courses.
+```bash
+# 1. Clone the repository
+git clone https://github.com/amanantuley/Course_Recommendation_System.git
 
-## 📂 Dataset
-- The dataset consists of Coursera courses with attributes such as course name, category, ratings, and difficulty level.
-- Ensure the dataset (`courses.xlsx`) is placed in the project directory.
+# 2. Navigate to the project directory
+cd Course_Recommendation_System
 
-## 🤝 Contribution
-Contributions are welcome! Feel free to fork the repository, submit issues, or make pull requests. 🚀
+# 3. Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Usage
+
+```bash
+# To run the recommendation script
+python recommender_app.py
+```
+
+Make sure `user_profile.csv`, `sim.csv`, and other relevant data files are in place.
+
+---
+
+## 🧾 Datasets
+
+| File Name              | Description                              |
+| ---------------------- | ---------------------------------------- |
+| `course_genre.csv`     | Raw genres associated with each course   |
+| `course_processed.csv` | Cleaned course data used in processing   |
+| `courses_bows.csv`     | Bag-of-words representations             |
+| `ratings.csv`          | User ratings of various courses          |
+| `sim.csv`              | Similarity matrix between course vectors |
+| `user_profile.csv`     | Stores user preferences and profiles     |
+
+---
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📬 Contact
-For any inquiries or feedback, reach out to:
+This project is licensed under the [MIT License](./LICENSE).
 
-📧 **Email**: amanantuley@gmail.com  
-🐦 **Twitter**: [@amanantuley](https://twitter.com/amanantuley)  
-🔗 **LinkedIn**: [amanantuley](https://linkedin.com/in/amanantuley)
+---
 
+## 🙋‍♂️ Contact
+
+* 📧 **Email**: [amanantuley@gmail.com](mailto:amanantuley@gmail.com)
+* 🐦 **Twitter**: [@amanantuley](https://twitter.com/amanantuley)
+* 🔗 **LinkedIn**: [amanantuley](https://linkedin.com/in/amanantuley)
